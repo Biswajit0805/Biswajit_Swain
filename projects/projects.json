@@ -5,7 +5,7 @@
   {
     "name": "News Hub",
     "desc": "Native android app built using Javascript, XML.,HTML,CSS,React.js.API Retrofit & Glide dependencies. Provides different category news.",
-    "image": "/Biswajit0805/Biswajit0805.github.io/main/assets/images/projects/newshub.png",
+    "image": "/assets/images/projects/newshub.png",
     "category": "LAMP Stack",
     "links": {
       "view": "https://github.com/Biswajit0805/newzhub",
