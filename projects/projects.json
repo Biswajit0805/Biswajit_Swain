@@ -46,6 +46,7 @@
     "name": "Food Delivery Website",
     "desc": "Basic food website landing page built using HTML, CSS, Javascript, Bootstrap.",
     "image":"food",
+    "image_url": "https://drive.google.com/file/d/1SGVR9Ub3xZoWdjkOSBjFq5r58vuNaMOr/view?usp=drive_link",
     "category": "Basic Web",
     "links": {
       "view": "https://github.com/Biswajit0805/Food_Ordering_site",
